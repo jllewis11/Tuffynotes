@@ -3,7 +3,7 @@
 [TuffyNotes Project](https://docs.google.com/document/d/14qiyhHtXpZOkVqHdUmLjLu1OWcBhQijvqybHtgsEWhI/edit?usp=sharing).
 
 # Requirements
-Refactor your Milestone 4 code so that the code will now use the object-oriented design to implement the program. Kindly modify your code so that it follows the design described below. Take note that you already implemented most functionalities in the previous milestones so you can reuse most of your code.
+Kindly modify your code so that it follows the design described below. Take note that you already implemented most functionalities in the previous milestones so you can reuse most of your code.
 
 ## Note class
 ### Data members
